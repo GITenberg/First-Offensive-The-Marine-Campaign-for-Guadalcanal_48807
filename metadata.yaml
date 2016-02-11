@@ -1,0 +1,24 @@
+_repo: First-Offensive-The-Marine-Campaign-for-Guadalcanal_48807
+creator:
+  author:
+    agent_name: Shaw, Henry I.
+    gutenberg_agent_id: '44976'
+    url: http://www.gutenberg.org/2009/agents/44976
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2015-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48807'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Marines in World War II, Commemorative Series
+subjects:
+- !lcsh 'Vandegrift, A. A. (Alexander Archer), 1887-1973'
+- !lcsh 'Guadalcanal, Battle of, Solomon Islands, 1942-1943'
+- !lcc 'D731'
+- !lcsh 'United States. Marine Corps -- History -- World War, 1939-1945'
+title: 'First Offensive: The Marine Campaign for Guadalcanal'
+url: http://www.gutenberg.org/ebooks/48807
